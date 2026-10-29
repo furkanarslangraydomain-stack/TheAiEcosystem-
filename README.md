@@ -116,7 +116,8 @@ The system is built against rigid JSON schemas to guarantee absolute modularity.
 ## ⚡ Read the Whitepaper
 The entire, meticulously detailed 62-page blueprint—including full OpenAPI parameters, memory budget sampling bounds, game-theoretic equations, and token tax rules—lives right in this repository.
 
-👉 **[Read the Full Technical Whitepaper PDF](./The_AI_Ecosystem_Whitepaper.pdf)**
+👉 **[Read the Full Technical Whitepaper PDF](./TheAiEcosystem_Whitepaper_v0-1.pdf)**
+
 
 ---
 
